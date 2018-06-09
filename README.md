@@ -10,9 +10,6 @@ Copy **src/ConfigurationManager.ts** to your vsce project folder.
 ### package.json
 
 ~~~ json
-    :
-    :
-    :
     "contributes": {
         "configuration": {
             "title": "configuration",
@@ -25,9 +22,6 @@ Copy **src/ConfigurationManager.ts** to your vsce project folder.
                 }
             }
         }
-        :
-        :
-        :
     },
 ~~~
 
